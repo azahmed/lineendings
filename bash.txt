@@ -1,2 +1,6 @@
 # lineendings
 this is added by sts
+-----
+thiis is now from the vi editor
+doda
+------
